@@ -44,3 +44,12 @@ Gracias a esta separación es más fácil leer, mantener y mejorar el código en
 2. Escribir un nombre en el campo de texto y presionar el botón **Añadir**.  
 3. Repetir el proceso hasta completar la lista de participantes.  
 4. Presionar el botón **Sortear amigo** para ver el resultado en pantalla.  
+
+---
+
+## Vista
+
+<img width="1823" height="890" alt="image" src="https://github.com/user-attachments/assets/21bcbfb8-a974-4e1a-99be-6b73de9f33fb" />
+<img width="1398" height="864" alt="image" src="https://github.com/user-attachments/assets/b2f44f12-5b0c-45e1-8099-d923d8bd2f73" />
+<img width="1131" height="896" alt="image" src="https://github.com/user-attachments/assets/854e569c-b400-41bd-86f2-d5d42205dea7" />
+<img width="1105" height="879" alt="image" src="https://github.com/user-attachments/assets/fad4f460-7486-4399-b99d-ea3a517c16a0" />
